@@ -1,0 +1,2 @@
+org/d3if0031/galerihewan/BuildConfig.java
+ org.d3if0031.galerihewan.BuildConfig
