@@ -20,12 +20,12 @@
         "source": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sapi.jpg.flat",
@@ -40,12 +40,12 @@
         "source": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\src\\main\\res\\drawable-mdpi\\bebek.jpg"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_domba.jpg.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\src\\main\\res\\drawable-hdpi\\domba.jpg"
-    },
-    {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_domba.jpg.flat",
         "source": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\src\\main\\res\\drawable-xhdpi\\domba.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_domba.jpg.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\src\\main\\res\\drawable-hdpi\\domba.jpg"
     },
     {
         "merged": "C:\\Users\\User\\AndroidStudioProjects\\4301-galeri-hewan-romegaarini\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_angsa.jpg.flat",
