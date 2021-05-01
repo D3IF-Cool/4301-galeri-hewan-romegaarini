@@ -13,7 +13,7 @@ import org.d3if0031.galerihewan.network.HewanApi
 class MainViewModel : ViewModel() {
     private val data = MutableLiveData<List<Hewan>>()
     init {
-        data.value = initData()
+
         retrieveData()
     }
     private fun retrieveData() {
@@ -21,6 +21,7 @@ class MainViewModel : ViewModel() {
             try {
                 val result = HewanApi.service.getHewan()
                 Log.d("MainViewModel", "Success: $result")
+                data.value = HewanApi.service.getHewan()
             } catch (e: Exception) {
                 Log.d("MainViewModel", "Failure: ${e.message}")
             }
