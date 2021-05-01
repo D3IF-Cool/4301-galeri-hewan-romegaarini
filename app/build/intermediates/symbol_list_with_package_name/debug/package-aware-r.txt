@@ -1959,6 +1959,7 @@ id mtrl_view_tag_bottom_padding
 id multiply
 id namaTextView
 id navigation_header_container
+id networkError
 id never
 id noScroll
 id none
@@ -1984,6 +1985,7 @@ id percent
 id pin
 id position
 id postLayout
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -2303,6 +2305,7 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string koneksi_error
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection

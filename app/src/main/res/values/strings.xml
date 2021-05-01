@@ -3,4 +3,5 @@
     <string name="nama">Nama</string>
     <string name="angsa">Angsa</string>
     <string name="cygnus_olor">Cygnus olor</string>
+    <string name="koneksi_error">Koneksi Error</string>
 </resources>
