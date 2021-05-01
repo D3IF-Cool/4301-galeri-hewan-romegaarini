@@ -1,5 +1,5 @@
-org/d3if0031/galerihewan/databinding/ActivityMainBinding.java
- org.d3if0031.galerihewan.databinding.ActivityMainBinding
+org/d3if0031/galerihewan/databinding/FragmentMainBinding.java
+ org.d3if0031.galerihewan.databinding.FragmentMainBinding
 org/d3if0031/galerihewan/BuildConfig.java
  org.d3if0031.galerihewan.BuildConfig
 org/d3if0031/galerihewan/databinding/ListItemBinding.java
